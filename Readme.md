@@ -6,7 +6,8 @@
 
 - [Metasploit Windows漏洞利用模块](./Metasploit%20Windows%20漏洞利用模块.md)
 
-- Metasploit Linux漏洞利用模块
+- [Metasploit Linux漏洞利用模块](./Metasploit%20Linux%20漏洞利用模块.md)
+
 - Metasploit Android漏洞利用模块
 - Metasploit 辅助模块
 - Metasploit Payload列表
