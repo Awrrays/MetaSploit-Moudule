@@ -8,12 +8,13 @@
 
 - [Metasploit Linux漏洞利用模块](./Metasploit%20Linux%20漏洞利用模块.md)
 
-- Metasploit Android漏洞利用模块
+- [Metasploit Android漏洞利用模块](./Metasploit%20Android%20漏洞利用模块.md)
+
 - Metasploit 辅助模块
 - Metasploit Payload列表
 
 
 
-![](https://img.shields.io/badge/Search-MetaSploit-brightgreen)
+![](https://img.shields.io/badge/Search-MetaSploit-brightgreen)![](https://img.shields.io/badge/Powerd%20By-Awrrays-blue)
 
-![](https://img.shields.io/badge/Powerd%20By-Awrrays-blue)
+
