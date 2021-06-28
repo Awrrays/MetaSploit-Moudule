@@ -10,7 +10,8 @@
 
 - [Metasploit Android漏洞利用模块](./Metasploit%20Android%20漏洞利用模块.md)
 
-- Metasploit 辅助模块
+- [Metasploit 辅助模块](./Metasploit%20Auxiliary%20漏洞利用模块.md)
+
 - Metasploit Payload列表
 
 
