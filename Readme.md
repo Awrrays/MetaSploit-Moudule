@@ -12,10 +12,11 @@
 
 - [Metasploit 辅助模块](./Metasploit%20Auxiliary%20漏洞利用模块.md)
 
-- Metasploit Payload列表
-
-
+- [Metasploit Payload列表](./Metasploit%20Payload%20列表.md)
 
 ![](https://img.shields.io/badge/Search-MetaSploit-brightgreen)![](https://img.shields.io/badge/Powerd%20By-Awrrays-blue)
 
 
+[InfoSec](https://www.infosecmatter.com/post-exploitation-metasploit-modules-reference/)
+
+[MetaSploit](https://github.com/rapid7/metasploit-framework/)
